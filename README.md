@@ -78,7 +78,7 @@
 
 <!-- Projects section (feature cards) -->
 <h2>Featured Projects</h2>
-<p>Below are 3–5 projects that showcase my work. Replace the placeholders with your real project titles, one-line descriptions, repo links and live demos.</p>
+<p>Below are 3 projects that showcase my work. Replace the placeholders with your real project titles, one-line descriptions, repo links and live demos.</p>
 
 <!-- Project Card Template (copy once per project) -->
 <div>
